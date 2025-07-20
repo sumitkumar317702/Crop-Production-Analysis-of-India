@@ -13,5 +13,5 @@ Project Highlights :-
 
 * India Crop Production Dashboard.pbix – Power BI project file
 * crop_production/ – Agricultural crop production dataset
-* Images/ – Dashboard screenshots
+* Screenshot(6),Screenshot(7)/ – Dashboard screenshots
 * README.md – Complete project documentation
